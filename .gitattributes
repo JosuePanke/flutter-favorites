@@ -4,3 +4,5 @@
 *.json linguist-language=Dart
 pubspec.yaml linguist-language=Dart
 pubspec.lock linguist-language=Dart
+*.md linguist-language=Dart
+**/* linguist-language=Dart
